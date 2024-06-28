@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1719562069897,"sparkVersion":"3.0.3","uid":"VectorAssembler_b808e799e79a","paramMap":{"inputCols":["sex","cp","fbs","restecg","exang","slope","ca","thal","target","features_scaled"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_b808e799e79a__output"}}
